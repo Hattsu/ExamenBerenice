@@ -1,0 +1,17 @@
+internal class System;
+
+NewMethod();
+
+static void NewMethod()
+{
+    private static void Main(string[] args)
+    {
+        Using System;
+        Console.Writline(¨estudianteprimaria¨);
+    }
+}
+
+class estudianteprimaria( ¨Estudianteporniveles¨);
+
+public estudianteprimaria;
+public nombre;

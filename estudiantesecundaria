@@ -1,0 +1,23 @@
+Using System;
+
+internal class Using
+{
+}
+
+[DebuggerDisplay($"{{{nameof(GetDebuggerDisplay)}(),nq}}")]
+class estudiantesecundaria
+{
+    public estudiantesecundaria()
+    {
+        public nombre;
+        public apellido;
+        public institucion;
+        public identidad;
+    }
+
+  public abstractestudiante
+    {
+        return ToString();
+    }
+}
+}
